@@ -25,7 +25,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Ávila',
-            image: 'https://drive.google.com/file/d/1xfc_vldgr2uSxjHDAJV_foAJk7FdrBum/view?usp=sharing',
+            image: 'https://raw.githubusercontent.com/xbitrix/canis-lupus-riofrio/refs/heads/main/Riofrío_Ávila_1.JPG',
             description: 'Siempre han existido historias de lobos en mi pueblo, pero nadie dice haber visto a ninguno en la sierra. <br>En el último censo regional de Castilla y León realizado en 2023 se identificaron en Ávila 15 manadas de un total de 193 en la Comunidad Autónoma. <br> ¿Es posible que, en 2025, el lobo aparezca en la comarca? </br> ',
             location: {
                 center: [ -4.708627411114946, 40.67229892680223],
@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Riofrío',
-            image: 'https://drive.google.com/file/d/1Kw7r_R4A2UMxTj5enPnyye3iZxCKEWO2/view?usp=sharing',
+            image: 'https://github.com/xbitrix/canis-lupus-riofrio/blob/main/Lobo_ibérico.png',
             description: 'Riofrío es un pueblo de 200 habitantes, situado en el centro del Valle Amblés y la Sierra de la Paramera. <br>  <br> Desde que se inició el proyecto de monitorización en el año 2000, la población del lobo ibérico en Ávila ha pasado <strong>de 2 a 15 manadas en 14 años</strong>.',
             location: {
                 center: [ -4.776014438175196,40.551499755233465],
@@ -80,7 +80,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Censo regional',
-            image: 'https://drive.google.com/file/d/1xqKkv4XRxjL-9yzsF1Z5XOuk6bD9Qnvz/view?usp=sharing',
+            image: 'https://raw.githubusercontent.com/xbitrix/canis-lupus-riofrio/refs/heads/main/censo-mapa.jpeg',
             description: ' La imagen muestra la presencia de <strong>manadas en toda la Comunidad Autónoma</strong>. Este censo se ha realizado gracias al esfuerzo de 146 estaciones de observación. Pese al aumento generalizado, la cifra de manadas está lejos de las 500 necesarias para garantizar la viabilidad genética del carnívoro.',
             location: {
                 center: [ -4.741521483290171, 41.817660601183775],
@@ -99,7 +99,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Mapa EPM Ataques de Lobos',
-            image: 'https://drive.google.com/file/d/1jh-hI5IwoEFQFS6MH2EsBYXVn7GJ231w/view?usp=sharing',
+            image: 'https://raw.githubusercontent.com/xbitrix/canis-lupus-riofrio/refs/heads/main/mapa-epm-ataques-lobos.png',
             description: 'Del lado contrario a los científicos, se encuentran los ganaderos y habitantes del mundo rural en toda Europa. Un grupo de ganaderos franceses de la zona de los Vosgos ha creado un mapa interactivo en el que cualquier ganadero puede registrar, de manera rápida y sencilla, los ataques que sufren. La imagen muestra los ataques geolocalizados en ese mapa en los alrededores de mi pueblo.<br>. Según los sucesos registrados en este mapa, el lobo vive en  la comarca del valle y quizá algún día, alguien pueda decir: ¡sí, yo sí he visto al lobo en nuetsra sierra!.',
             location: {
                 center: [ -2.8175058540464875, 49.54826528088873],
