@@ -25,7 +25,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Ávila',
-            image: 'https://raw.githubusercontent.com/xbitrix/canis-lupus-riofrio/refs/heads/main/Riofrío_Ávila_1.JPG',
+            image: 'https://commons.wikimedia.org/wiki/File:Riofr%C3%ADo_%C3%81vila_1.JPG',
             description: 'Siempre han existido historias de lobos en mi pueblo, pero nadie dice haber visto a ninguno en la sierra. <br>En el último censo regional de Castilla y León realizado en 2023 se identificaron en Ávila 15 manadas de un total de 193 en la Comunidad Autónoma. <br> ¿Es posible que, en 2025, el lobo aparezca en la comarca? </br> ',
             location: {
                 center: [ -4.708627411114946, 40.67229892680223],
