@@ -55,7 +55,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: 'Riofrío',
-            image: 'https://github.com/xbitrix/canis-lupus-riofrio/blob/main/Lobo_ibérico.png',
+            image: 'https://upload.wikimedia.org/wikipedia/commons/7/74/Lobo_ib%C3%A9rico_%28Canis_lupus_signatus%29.png',
             description: 'Riofrío es un pueblo de 200 habitantes, situado en el centro del Valle Amblés y la Sierra de la Paramera. <br>  <br> Desde que se inició el proyecto de monitorización en el año 2000, la población del lobo ibérico en Ávila ha pasado <strong>de 2 a 15 manadas en 14 años</strong>.',
             location: {
                 center: [ -4.776014438175196,40.551499755233465],
@@ -100,7 +100,7 @@ var config = {
             hidden: false,
             title: 'Mapa EPM Ataques de Lobos',
             image: 'https://raw.githubusercontent.com/xbitrix/canis-lupus-riofrio/refs/heads/main/mapa-epm-ataques-lobos.png',
-            description: 'Del lado contrario a los científicos, se encuentran los ganaderos y habitantes del mundo rural en toda Europa. Un grupo de ganaderos franceses de la zona de los Vosgos ha creado un mapa interactivo en el que cualquier ganadero puede registrar, de manera rápida y sencilla, los ataques que sufren. La imagen muestra los ataques geolocalizados en ese mapa en los alrededores de mi pueblo.<br>. Según los sucesos registrados en este mapa, el lobo vive en  la comarca del valle y quizá algún día, alguien pueda decir: ¡sí, yo sí he visto al lobo en nuetsra sierra!.',
+            description: 'Del lado contrario a los científicos, se encuentran los ganaderos y habitantes del mundo rural en toda Europa. Un grupo de ganaderos franceses de la zona de los Vosgos ha creado un mapa interactivo en el que cualquier ganadero puede registrar, de manera rápida y sencilla, los ataques que sufren. La imagen muestra los ataques geolocalizados en ese mapa en los alrededores de mi pueblo.<br>Según los sucesos registrados en este mapa, el lobo vive en la comarca del valle y quizá algún día, alguien pueda decir: ¡sí, yo sí he visto al lobo en nuestra sierra!.',
             location: {
                 center: [ -2.8175058540464875, 49.54826528088873],
                 zoom: 4.5,
